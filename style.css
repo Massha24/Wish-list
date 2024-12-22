@@ -1,6 +1,6 @@
 body{
-    color: #000000;
-    background-image: radial-gradient(#F08080, #F8F8FF);
+    color: #0d00ff;
+    background-image: radial-gradient(#53b4ff, #F8F8FF);
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 100svh;
@@ -20,5 +20,5 @@ ul{
 
 li{
     width: 300px;
-    box-shadow: 3px 3px 5px 2px #5d5be9;
+    box-shadow: 3px 3px 5px 2px #2a2974;
 }
