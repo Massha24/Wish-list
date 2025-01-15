@@ -5,6 +5,11 @@ body{
     background-size: contain;
     min-height: 100svh;
 }
+* {
+    font-family: "Playwrite VN", serif;
+    font-weight: 200;
+    font-style: normal; 
+}
 
 h1{
    text-align: center;
@@ -21,4 +26,10 @@ ul{
 li{
     width: 300px;
     box-shadow: 3px 3px 5px 2px #2a2974;
+    border-radius: 10px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
 }
